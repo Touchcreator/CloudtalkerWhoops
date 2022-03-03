@@ -11,3 +11,11 @@ Cloudtalker already has many vulnerabilities, so the exploits are very light as 
 1.1: Custom date changed
 
 1.2: "Random Account" block evasion
+
+## Status
+
+1.0: Doesn't work
+
+1.1: DOesn't work
+
+1.2: Working
