@@ -7,5 +7,7 @@ Cloudtalker already has many vulnerabilities, so the exploits are very light as 
 ## Changelog
 
 1.0: Creation
+
 1.1: Custom date changed
+
 1.2: Account creation refined
