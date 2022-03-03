@@ -10,4 +10,4 @@ Cloudtalker already has many vulnerabilities, so the exploits are very light as 
 
 1.1: Custom date changed
 
-1.2: Account creation refined
+1.2: "Random Account" block evasion
